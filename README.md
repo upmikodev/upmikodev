@@ -1,4 +1,4 @@
-# 👋 Hello, I'm upmikodev
+# 👋 Hello, I'm Michael
 
 **Senior Full Stack & Cloud Architect**
 
