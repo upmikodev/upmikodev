@@ -54,7 +54,7 @@ Thanks for stopping by—feel free to star your favorites! ⭐
 
 | Github Streaks🔥                                                                                | GitHub Stats 📊                                                                                                         | Used Languages 🚀                                                                                                                                                                |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://pythonhubdev-streak-stats.vercel.app?user=pythonhubdev&theme=dark&hide_border=true) | ![](https://pythonhubdev-stats.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=dark&langs_count=5) | ![](https://pythonhubdev-stats.vercel.app/api/top-langs/?username=pythonhubdev&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook) |
+| ![](https://upmikodev-streak-stats.vercel.app?user=upmikodev&theme=dark&hide_border=true) | ![](https://upmikodev-stats.vercel.app/api/wakatime?username=Vetrichelvan&hide_border=true&theme=dark&langs_count=5) | ![](https://upmikodev-stats.vercel.app/api/top-langs/?username=upmikodev&layout=compact&theme=dark&hide_border=true&bg_color=151515&langs_count=8&hide=jupyter%20notebook) |
 
 ---
 <!--  -->
