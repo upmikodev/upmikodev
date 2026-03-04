@@ -1,4 +1,4 @@
-# 👋 Senior AI SaaS Engineer | FinTech & Healthcare | Python, React, AWS
+# 👋 Hello, I'm Michael (upmikodev)
 
 I'm a Senior AI SaaS Engineer with 10+ years of experience building and scaling production platforms across FinTech, Healthcare, and PropTech.
 I help startups and growing companies design and build AI-powered SaaS products, data platforms, and scalable cloud systems using Python, React, and modern cloud infrastructure.
