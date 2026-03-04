@@ -30,18 +30,20 @@ I bring over a decade of hands‑on experience building, modernizing, and scalin
 
 ## 🚀 Selected Projects
 
-This is a snapshot of repositories you’ll find on my profile—each one reflects a real‑world problem I’ve tackled or a template I use for rapid prototyping.
+Below are some of the most recently active and representative repositories from my profile. They showcase real-world problems tackled, industry templates, and full‑stack prototypes.
 
-| Repository | Focus | Language/Tech |
-|------------|-------|---------------|
-| [ai-saas](https://github.com/upmikodev/ai-saas) | AI‑driven SaaS starter kit | TypeScript, React, Next.js |
-| [django-saas](https://github.com/upmikodev/django-saas) | Python/Django multi‑tenant SaaS boilerplate | Python, Django |
-| [awslambdas-python](https://github.com/upmikodev/awslambdas-python) | Serverless utilities and examples | Python, AWS Lambda |
-| [convert-microservice](https://github.com/upmikodev/convert-microservice) | Lightweight file conversion service | Python, FastAPI |
-| [movie-recommender](https://github.com/upmikodev/movie-recommender) | ML/AI recommendation engine demo | Python, machine learning |
-| [task-automation](https://github.com/upmikodev/task-automation) | Workflow and automation scripts | Python |
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [medical-ai-assistant](https://github.com/upmikodev/medical-ai-assistant) | Multi-agent AI platform for medical imaging diagnostics with RAG, segmentation, and report generation | Python, FastAPI, ML |
+| [healthtrack](https://github.com/upmikodev/healthtrack) | Django REST backend for medical appointments, records, and social connections | Python, Django |
+| [estateflow-ai](https://github.com/upmikodev/estateflow-ai) | Voice‑enabled, agent‑driven real‑estate chatbot with search & scheduling | Python, AI agents |
+| [prop-manager](https://github.com/upmikodev/prop-manager) | Real estate portfolio tracking & analysis tool with React frontend | TypeScript, React, FastAPI |
+| [trading-assist](https://github.com/upmikodev/trading-assist) | Docker‑based FastAPI trading analytics platform with sentiment analysis | TypeScript, Python |
+| [investment-manager](https://github.com/upmikodev/investment-manager) | Monorepo for investment portfolio platform with multiple FastAPI services | Python, React, Docker |
+| [ai-saas](https://github.com/upmikodev/ai-saas) | AI‑powered SaaS marketing content generator using OpenAI’s GPT | TypeScript, Next.js |
+| [django-saas](https://github.com/upmikodev/django-saas) | Docker‑ready Django boilerplate for scalable multi‑tenant SaaS apps | Python, Django |
 
-*(more projects available – check out my full [GitHub profile](https://github.com/upmikodev))*
+*(Explore more repositories on my GitHub profile.)*
 
 ## 📫 Let's Connect
 
