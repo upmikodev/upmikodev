@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Michael
 
-**Senior AI SaaS Engineer | FinTech & Healthcare | Python, React, AWS**<br/><br />
-I'm a Senior AI SaaS Engineer with 10+ years of experience building and scaling production platforms across FinTech, Healthcare, and PropTech.
+**Senior Software Engineer | Python, React, Next.js, AWS, AI SaaS**<br/><br />
+I'm a Senior Software Engineer with 10+ years of experience building and scaling production platforms across FinTech, Healthcare, and PropTech.
 I help startups and growing companies design and build AI-powered SaaS products, data platforms, and scalable cloud systems using Python, React, and modern cloud infrastructure.
 
 My work focuses on AI-enabled platforms, financial data systems, healthcare applications, and real estate technology products that handle complex business logic and large volumes of data.
