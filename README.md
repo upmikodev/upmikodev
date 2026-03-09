@@ -35,7 +35,6 @@ Below are some of the most recently active and representative repositories from 
 |------------|-------------|-------|
 | [medical-ai-assistant](https://github.com/upmikodev/medical-ai-assistant) | Multi-agent AI platform for medical imaging diagnostics with RAG, segmentation, and report generation | Python, FastAPI, ML |
 | [healthtrack](https://github.com/upmikodev/healthtrack) | Django REST backend for medical appointments, records, and social connections | Python, Django |
-| [estateflow-ai](https://github.com/upmikodev/estateflow-ai) | Voice‑enabled, agent‑driven real‑estate chatbot with search & scheduling | Python, AI agents |
 | [prop-manager](https://github.com/upmikodev/prop-manager) | Real estate portfolio tracking & analysis tool with React frontend | TypeScript, React, FastAPI |
 | [trading-assist](https://github.com/upmikodev/trading-assist) | Docker‑based FastAPI trading analytics platform with sentiment analysis | TypeScript, Python |
 | [investment-manager](https://github.com/upmikodev/investment-manager) | Monorepo for investment portfolio platform with multiple FastAPI services | Python, React, Docker |
