@@ -27,6 +27,17 @@ I specialize in turning early-stage ideas or legacy systems into scalable SaaS p
 My focus is always clean architecture, scalability, and long-term maintainability, helping teams build systems that grow with their business.
 If you're building a FinTech platform, Healthcare application, or PropTech product, I can help architect and develop a system that is reliable, scalable, and ready for real users.
 
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/940978516d20" target="_blank">
+    <img src="./React.png" alt="HackerRank Certification 1" width="300" height="200" style="margin: 10px;">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/fe3c2ef9dadb" target="_blank">
+    <img src="./software engineer.png" alt="HackerRank Certification 2" width="300" height="200" style="margin: 10px;">
+  </a>
+</p>
+
 ## 🚀 Selected Projects
 
 Below are some of the most recently active and representative repositories from my profile. They showcase real-world problems tackled, industry templates, and full‑stack prototypes.
